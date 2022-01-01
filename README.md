@@ -15,7 +15,6 @@
 * Pré-requisitos
 * Tecnologias utilizadas
 * Autora
-* Licença
 
 <!--te-->
 
